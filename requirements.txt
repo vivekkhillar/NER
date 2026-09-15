@@ -1,0 +1,10 @@
+fastapi>=0.115.0
+uvicorn>=0.30.0
+spacy>=3.8.0
+pydantic>=2.8.0
+python-multipart>=0.0.9
+pymupdf>=1.24.0
+rapidocr_onnxruntime>=1.2.3
+streamlit>=1.38.0
+pillow>=10.0.0
+requests>=2.31.0
